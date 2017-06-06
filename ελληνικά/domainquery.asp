@@ -101,7 +101,7 @@ dim Info : set Info = JSON.parse(join(array( _
 	 
 		Set xmlHTTP = server.CreateObject("MSXML2.ServerXMLHTTP")
 		xmltext = "message="& strXML
-		xmlhttp.open "POST","https://api.papaki.gr/register_url2.aspx", False
+		xmlhttp.open "POST","https://api.papaki.com/register_url2.aspx", False
 		xmlhttp.SetRequestHeader "Content-Type", "application/x-www-form-urlencoded"
 		xmlhttp.send xmltext
 		 ' response.Write(xmlhttp.ResponseText )
