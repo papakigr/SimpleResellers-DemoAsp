@@ -18,9 +18,9 @@ config.asp
 Test environment
 ----------------
 If you want to use the test environment open the file config.asp,
-Place your test apikey and change the post url : https://api-test.papaki.gr/register_url2.aspx 
+Place your test apikey and change the post url : https://api-test.papaki.com/register_url2.aspx
 
  
 
 domainquery.asp:
-αλλάξτε στη γραμμή 104 το post url σε https://api-test.papaki.gr/register_url2.aspx
+αλλάξτε στη γραμμή 104 το post url σε https://api-test.papaki.com/register_url2.aspx

@@ -25,4 +25,4 @@ config.asp:
 Βάλτε το apikey του test environment
 
 domainquery.asp:
-αλλάξτε στη γραμμή 104 το post url σε https://api-test.papaki.gr/register_url2.aspx
+αλλάξτε στη γραμμή 104 το post url σε https://api-test.papaki.com/register_url2.aspx
